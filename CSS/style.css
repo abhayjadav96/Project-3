@@ -73,7 +73,7 @@
 
     height: 100vh;
     width: 100%;
-    background-image: url('./Media/Img1.jpg');
+    background-image: url('../Media/Img1.jpg');
     background-size: cover;
     /* background-color: red; */
     background-position: 0 -140px;
@@ -179,37 +179,37 @@
 
 .product_frame:nth-child(1){
 
-    background-image: url("./Media/img2.jpg");
+    background-image: url("../Media/img2.jpg");
 
 }
 
 .product_frame:nth-child(2){
 
-    background-image: url("./Media/img3.jpg");
+    background-image: url("../Media/Img3.jpg");
 
 }
 
 .product_frame:nth-child(3){
 
-    background-image: url("./Media/img4.jpg");
+    background-image: url("../Media/Img4.jpg");
 
 }
 
 .product_frame:nth-child(4){
 
-    background-image: url("./Media/img5.jpg");
+    background-image: url("../Media/Img5.jpg");
 
 }
 
 .product_frame:nth-child(5){
 
-    background-image: url("./Media/Img6.jpg");
+    background-image: url("../Media/Img6.jpg");
 
 }
 
 .product_frame:nth-child(6){
 
-    background-image: url("./Media/img7.jpg");
+    background-image: url("../Media/img7.jpg");
 
 }
 
@@ -457,7 +457,7 @@
     width: 90px;
     background-size: cover;
     /* background-color: black; */
-    background-image: url("./Media/review.png");
+    background-image: url("../Media/review.png");
 }
 
 .review_img_text{
@@ -479,21 +479,21 @@
 }
 
 .insta{
-    background-image: url("./Media/Insta.png");
+    background-image: url("../Media/Insta.png");
     background-size: cover;
 }
 
 .FB{
-    background-image: url("./Media/FB.png");
+    background-image: url("../Media/FB.png");
     background-size: cover;
 }
 
 .Youtube{
-    background-image: url("./Media/Youtube.png");
+    background-image: url("../Media/Youtube.png");
     background-size: cover;
 }
 
 .Twiter{
-    background-image: url("./Media/Twitter.png");
+    background-image: url("../Media/Twitter.png");
     background-size: cover;
 }
